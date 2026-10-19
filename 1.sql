@@ -1,0 +1,3 @@
+--TABLE mahasiswa
+
+CREATE TABLE 
